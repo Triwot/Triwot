@@ -5,7 +5,7 @@
 
 <!-- Animated Terminal Typing -->
 <a href="https://github.com/Triwot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%7C+Redes%2C+Hardening+%26+Infraestructura+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%26+Linux+Mint+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br />
@@ -32,7 +32,7 @@ ubicacion:   "La Paz, Bolivia 🇧🇴"
 formacion:   "Estudiante de Sistemas & Seguridad (Informática - UMSA)"
 rol_actual:  "Full-Stack & Mobile Developer | Co-fundador de Pytech"
 enfoque:     ["Sistemas & Hardening Linux", "Seguridad Web", "Redes & Cloud (Azure)", "Desarrollo Web & Móvil"]
-entorno:     "Ubuntu + Terminal + Código Limpio"
+entorno:     "Ubuntu & Linux Mint + Terminal + Código Limpio"
 ```
 
 > Desde **La Paz, Bolivia**, construyo soluciones digitales seguras y escalables que van desde plataformas web de gestión institucional hasta aplicaciones móviles interactivas. Combino mi formación en **Sistemas y Seguridad Informática** con el desarrollo ágil en **Laravel, Next.js y Flutter**, siempre fiel a la terminal y a las buenas prácticas.
@@ -47,25 +47,28 @@ entorno:     "Ubuntu + Terminal + Código Limpio"
 
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br />Linux
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" /><br />Ubuntu
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" width="48" height="48" alt="Linux Mint" /><br />Linux Mint
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" /><br />Kali Linux
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Bash" /><br />Bash
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" /><br />Wireshark
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br />Docker
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br />Azure
     </td>
   </tr>
