@@ -1,19 +1,39 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:003b00,100:00ff41&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Gerson Flores Banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:003b00,100:00ff41&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,55:059669,100:34d399&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:003b00,100:00ff41&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Gerson Flores Banner" />
+</picture>
 
 <!-- Animated Terminal Typing -->
 <a href="https://github.com/Triwot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%26+Linux+Mint+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%26+Linux+Mint+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=047857&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%26+Linux+Mint+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%26+Linux+Mint+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
+  </picture>
 </a>
 
 <br />
 
 <!-- Top Badges -->
-<img src="https://img.shields.io/badge/Sistemas_%26_Seguridad-UMSA-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" alt="Sistemas y Seguridad UMSA" />
-<img src="https://img.shields.io/badge/Co--Fundador-Pytech-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="Co-fundador Pytech" />
-<img src="https://img.shields.io/badge/La_Paz-Bolivia-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" alt="La Paz, Bolivia" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sistemas_%26_Seguridad-UMSA-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sistemas_%26_Seguridad-UMSA-059669?style=for-the-badge&labelColor=f3f4f6&logo=kalilinux&logoColor=065f46" />
+  <img src="https://img.shields.io/badge/Sistemas_%26_Seguridad-UMSA-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" alt="Sistemas y Seguridad UMSA" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Co--Fundador-Pytech-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Co--Fundador-Pytech-059669?style=for-the-badge&labelColor=f3f4f6&logo=gnubash&logoColor=065f46" />
+  <img src="https://img.shields.io/badge/Co--Fundador-Pytech-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="Co-fundador Pytech" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/La_Paz-Bolivia-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/La_Paz-Bolivia-059669?style=for-the-badge&labelColor=f3f4f6&logo=googlemaps&logoColor=065f46" />
+  <img src="https://img.shields.io/badge/La_Paz-Bolivia-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" alt="La Paz, Bolivia" />
+</picture>
 <img src="https://komarev.com/ghpvc/?username=Triwot&label=VISTAS&color=00c853&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -158,15 +178,27 @@ entorno:     "Ubuntu & Linux Mint + Terminal + Código Limpio"
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Triwot&theme=github_dark" alt="Triwot GitHub Profile Summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Triwot&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Triwot&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Triwot&theme=github_dark" alt="Triwot GitHub Profile Summary" />
+</picture>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Triwot&theme=matrix&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Triwot GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Triwot&theme=matrix&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Triwot&background=FFFFFF&border=D1D5DB&stroke=E5E7EB&ring=059669&fire=059669&currStreakNum=111827&sideNums=111827&currStreakLabel=059669&sideLabels=374151&dates=6B7280" />
+  <img src="https://streak-stats.demolab.com?user=Triwot&theme=matrix&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Triwot GitHub Streak" />
+</picture>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Triwot&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=false&border_color=1f2937" alt="Triwot Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Triwot&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=false&border_color=1f2937" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Triwot&bg_color=ffffff&color=111827&line=059669&point=065f46&area=true&area_color=a7f3d0&hide_border=false&border_color=d1d5db" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Triwot&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=false&border_color=1f2937" alt="Triwot Activity Graph" />
+</picture>
 
 </div>
 
@@ -180,11 +212,19 @@ entorno:     "Ubuntu & Linux Mint + Terminal + Código Limpio"
 <div align="center">
 
 <a href="mailto:gersonfloresgato18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-gersonfloresgato18%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email Triwot" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-gersonfloresgato18%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-gersonfloresgato18%40gmail.com-059669?style=for-the-badge&labelColor=f3f4f6&logo=gmail&logoColor=065f46" />
+    <img src="https://img.shields.io/badge/Gmail-gersonfloresgato18%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email Triwot" />
+  </picture>
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,45:003b00,100:0d1117&height=110&section=footer" width="100%" alt="Footer Wave" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,45:003b00,100:0d1117&height=110&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,45:059669,100:065f46&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,45:003b00,100:0d1117&height=110&section=footer" width="100%" alt="Footer Wave" />
+</picture>
 
 </div>
