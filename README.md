@@ -5,7 +5,7 @@
 
 <!-- Animated Terminal Typing -->
 <a href="https://github.com/Triwot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Linux+Mint+XFCE+%7C+Redes%2C+Hardening+%26+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+software+seguro+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=Estudiante+de+Sistemas+%26+Seguridad+en+la+UMSA+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%26+Mobile+Developer+%7C+Co-fundador+%40+Pytech+%F0%9F%9A%80;Ubuntu+%7C+Redes%2C+Hardening+%26+Infraestructura+Cloud+(Azure)+%F0%9F%90%A7;Construyendo+un+futuro+tecnol%C3%B3gico+desde+La+Paz%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br />
@@ -32,7 +32,7 @@ ubicacion:   "La Paz, Bolivia 🇧🇴"
 formacion:   "Estudiante de Sistemas & Seguridad (Informática - UMSA)"
 rol_actual:  "Full-Stack & Mobile Developer | Co-fundador de Pytech"
 enfoque:     ["Sistemas & Hardening Linux", "Seguridad Web", "Redes & Cloud (Azure)", "Desarrollo Web & Móvil"]
-entorno:     "Linux Mint XFCE + Terminal + Código Limpio"
+entorno:     "Ubuntu + Terminal + Código Limpio"
 ```
 
 > Desde **La Paz, Bolivia**, construyo soluciones digitales seguras y escalables que van desde plataformas web de gestión institucional hasta aplicaciones móviles interactivas. Combino mi formación en **Sistemas y Seguridad Informática** con el desarrollo ágil en **Laravel, Next.js y Flutter**, siempre fiel a la terminal y a las buenas prácticas.
@@ -51,7 +51,7 @@ entorno:     "Linux Mint XFCE + Terminal + Código Limpio"
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br />Linux
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" width="48" height="48" alt="Linux Mint" /><br />Linux Mint
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" /><br />Ubuntu
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux" /><br />Kali Linux
@@ -169,9 +169,9 @@ entorno:     "Linux Mint XFCE + Terminal + Código Limpio"
 
 ---
 
-## 🎮 Fuera del Teclado & 📫 Contacto
+## 🌍 Visión, Propósito & 📫 Contacto
 
-* 🎬 Cuando me despego de la terminal, seguro me encuentras viendo **Attack on Titan** o **Breaking Bad**, o en una partida rápida de **Clash Royale**.
+* 🌱 **Emprendedor tecnológico con vocación de impacto:** Creo en la tecnología y en la gestión pública inteligente como motores de cambio para construir una **Bolivia más conectada, justa y soberana**, impulsando desde la innovación digital un planeta más humano y un mundo mejor.
 * 🔐 Siempre abierto a colaborar en proyectos de **sistemas, seguridad informática, desarrollo full-stack y mobile**.
 
 <div align="center">
