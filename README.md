@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header Wave Banner -->
+<!-- Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:003b00,100:00ff41&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,55:059669,100:34d399&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:003b00,100:00ff41&height=210&section=header&text=Gerson%20Flores%20(Triwot)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%26%20Seguridad%20Inform%C3%A1tica%20%7C%20Full-Stack%20%26%20Mobile%20Dev&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Gerson Flores Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-modo-oscuro.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-modo-claro.jpg" />
+  <img src="./assets/banner-modo-oscuro.jpg" width="100%" alt="Gerson Flores · Triwot Banner" />
 </picture>
 
 <!-- Animated Terminal Typing -->
