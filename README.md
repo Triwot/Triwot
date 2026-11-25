@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-modo-oscuro.jpg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-modo-claro.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-modo-claro.jfif" />
   <img src="./assets/banner-modo-oscuro.jpg" width="100%" alt="Gerson Flores · Triwot Banner" />
 </picture>
 
